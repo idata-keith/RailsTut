@@ -59,5 +59,5 @@ get 'welcome/index'
   #     # Directs /admin/products/* to Admin::ProductsController
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
-  #   end
+     end
 end
